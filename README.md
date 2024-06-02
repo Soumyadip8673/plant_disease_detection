@@ -13,4 +13,4 @@
  * If you do not have leaf images then you can use test images located in `test_images` folder
  * Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
 # Screenshots
-![](https://drive.google.com/file/d/1wHGdeEQlK4-eMfLM4F3cVJMx5wAU4gBo/view?usp=sharing)
+![](https://github.com/Soumyadip8673/plant_disease_detection/blob/main/3.png)
